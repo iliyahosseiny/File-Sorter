@@ -1,4 +1,4 @@
-# File Sorter
+# File Sorter v1.0 (release)
 
 A simple file sorting tool built with Node.js.
 
